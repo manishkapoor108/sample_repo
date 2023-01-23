@@ -33,7 +33,7 @@ metadata:
       
 spec:
   type: service
-  owner: user:manishkapoor108
+  owner: manishkapoor108
   domain: Example
   lifecycle: poc
   members: ["manishkapoor108"]
